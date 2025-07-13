@@ -1,1 +1,1 @@
-ScheletProiectPAOO
+Proiect PAOO
