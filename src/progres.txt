@@ -1,0 +1,7 @@
+23 aprilie: am facut modificarile pt ep 5; nu am gasit niciun spritesheet cu Mr Bean si nici cu vreun om care sa se poata ghemui;
+            trebuie sa ne hotaram daca lasam personajul nostru sa arate asa, pentru ca trebuie sa avem deja toate masurile
+            pentru animatii si ne ar fi greu sa le schimbam la mijlocul jocului; ar mai trebui umblat pe la numere, pentru
+            ca succesiunea cadrelor nu este prea corecta
+24 aprilie: eu zic ca e in regula sa l lasam pe acesta , pana la urma seamana cat de cat cu Mr Bean.
+            Dar avem animatii pentru el ghemuit?
+            Sau poate ne face chat gpt macar o poza cu el ghemuit.
